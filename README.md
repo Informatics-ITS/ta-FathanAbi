@@ -1,10 +1,10 @@
 # 🏁 Tugas Akhir (TA) - Final Project
 
-**Nama Mahasiswa**: [Nama Lengkap]  
-**NRP**: [Nomor Registrasi Pokok]  
-**Judul TA**: [Judul Tugas Akhir]  
-**Dosen Pembimbing**: [Nama Dosen]  
-**Dosen Ko-pembimbing**: [Nama Dosen]
+**Nama Mahasiswa**: Fathan Abi Karami
+**NRP**: 5025211156  
+**Judul TA**: Klasifikasi Few-Shot Citra Hiperspektral Menggunakan Contrastive Learning Untuk Pemetaan Tumpahan Minyak  
+**Dosen Pembimbing**: Wijayanti Nurul Khotimah, S.Kom., M.Sc., Ph.D.  
+**Dosen Ko-pembimbing**: Prof. Dr. Eng. Nanik Suciati, S.Kom., M.Kom.
 
 ---
 
