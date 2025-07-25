@@ -99,16 +99,25 @@ Embed video demo di bawah ini (ganti `VIDEO_ID` dengan ID video YouTube Anda):
    ```bash
    python -m venv venv_name
    ```
+   - register virtual environment sebagai kernel
 4. **Instalasi Dependensi**
    ```bash
    pip install -r requirements.txt
    ```
+   catatan: instalasi torch, torchvision, dan torchaudio berdasarkan versi dari CUDA dan model GPU yang digunakkan. Silakan merujuk ke dokumentasi resmi CUDA dan/atau GPU yang digunakkan untuk instalasi package tersebut.
 
 5. **Jalankan Aplikasi**
    - buka folder experiment
    - pilih salah satu file eksperiment, sesuai struktur model yang diinginkan
-   - konfigurasi parameter pada eksperiment
-   - running menggunakan jupyter notebook
+   - konfigurasi parameter pada eksperiment (pastikan path file / folder benar)
+   - running menggunakan jupyter notebook (pastikan kernelnya sesuai yang telah dibuat)
+
+6. **Visualisasi Hasil**
+   - gunakan program \visualisasi_hasil_prediksi.ipynb pada folder visualisasi
+   - konfigurasi path folder yang berisikan hasil prediksi dari langkah sebelumnya
+   - konfigurasi path dataset
+   - gunakan kernel yang sama pada langkah sebelumnya
+   - jalankan program
 
 
 ---
