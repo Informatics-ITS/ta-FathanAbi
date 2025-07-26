@@ -38,10 +38,10 @@ CUDA
    python -m venv venv_name
    ```
    - aktivasi virtual environment
+   - register virtual environment sebagai kernel
    ```bash
    python -m ipykernel install --user --name=myenv --display-name "Python (myenv)"
    ```
-   - register virtual environment sebagai kernel
 4. **Instalasi Dependensi**
    ```bash
    pip install -r requirements.txt
