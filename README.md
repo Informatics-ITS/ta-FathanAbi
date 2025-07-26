@@ -34,9 +34,12 @@ CUDA
    - download dataset pada: https://github.com/PuhongDuan/HOSD
 3. **Buat virtual Environment**
    - buat virtual environment
-   - aktivasi virtual environment
    ```bash
    python -m venv venv_name
+   ```
+   - aktivasi virtual environment
+   ```bash
+   python -m ipykernel install --user --name=myenv --display-name "Python (myenv)"
    ```
    - register virtual environment sebagai kernel
 4. **Instalasi Dependensi**
