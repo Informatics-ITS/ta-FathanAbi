@@ -22,6 +22,7 @@ Embed video demo di bawah ini (ganti `VIDEO_ID` dengan ID video YouTube Anda):
 
 ### Prasyarat  
 Python 3.12.5
+
 CUDA
 
 ### Langkah-langkah  
